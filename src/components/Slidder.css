@@ -1,0 +1,9 @@
+/* src/App.css or src/components/Slider.css */
+.slider-container {
+  margin-top: 0px; 
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 550px; 
+}
