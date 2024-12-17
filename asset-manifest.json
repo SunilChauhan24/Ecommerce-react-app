@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-react-app/static/css/main.eddc8654.css",
+    "main.js": "/Ecommerce-react-app/static/js/main.d164eea2.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Ecommerce-react-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/cloths8.jpg": "/Ecommerce-react-app/static/media/cloths8.d0d54b1c72658f2b1174.jpg",
+    "static/media/cloths9.jpg": "/Ecommerce-react-app/static/media/cloths9.d656ef4c36f14a5e6dc5.jpg",
+    "static/media/fontawesome-webfont.eot": "/Ecommerce-react-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Ecommerce-react-app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/cloths10.jpg": "/Ecommerce-react-app/static/media/cloths10.a9eec2e81758df2e5b6e.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Ecommerce-react-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Ecommerce-react-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.svg": "/Ecommerce-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ecommerce-react-app/index.html",
+    "main.eddc8654.css.map": "/Ecommerce-react-app/static/css/main.eddc8654.css.map",
+    "main.d164eea2.js.map": "/Ecommerce-react-app/static/js/main.d164eea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eddc8654.css",
+    "static/js/main.d164eea2.js"
+  ]
+}
